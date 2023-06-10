@@ -100,7 +100,7 @@ p{
     border-radius:5px;  
     
 }
-a:link{
+a{
     text-decoration:none;
     color: white;
 } 
@@ -185,3 +185,4 @@ footer{
     color:dimgray;
     margin-top: 70px;
 }
+
